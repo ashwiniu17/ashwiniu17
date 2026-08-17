@@ -6,9 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=Ashwiniu17&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwiniu17" />
 </p>
 
-* 🌱 I’m currently learning **Programming, Data Structures & Web Development**
+* 🌱 I’m currently learning **Data Structures, Algorithms & Software Development**
 
-* 👩‍💻 I’m currently working on **Personal and Academic Projects**
+* 👩‍💻 I’m currently working on **projects and strengthening my problem-solving skills**
 
 * 📄 Check out my resume here - **[My Resume](YOUR_RESUME_LINK)**
 
@@ -16,7 +16,7 @@
 
 * 🎓 I’m currently pursuing **Computer Science Engineering**
 
-* 💬 Ask me about **Programming, Git & GitHub**
+* 💬 Ask me about **Programming, Data Structures & Software Development**
 
 * 📫 Reach out to me at **[ashwini1752007@gmail.com](mailto:ashwini1752007@gmail.com)**
 
