@@ -18,7 +18,7 @@
 
 * 💬 Ask me about **C Programming**
 
-* 📫 Reach out to me at **YOUR_EMAIL**
+* 📫 Reach out to me at **ashwini1752007@gmail.com**
 
 <h2>GitHub Stats:</h2>
 
