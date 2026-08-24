@@ -10,7 +10,7 @@
 
 * 👩‍💻 I’m currently working on **projects and strengthening my problem-solving skills**
 
-* 📄 Check out my resume here - **[My Resume](https://drive.google.com/file/d/1mJpvXme6dMUBD91WXgqcUZUJ7S59Wh4f/view?usp=drive_link)**
+* 📄 Check out my resume here - **[My Resume](https://drive.google.com/file/d/1kn4PxWc51HIktb1-LPf1Gn0JoecZ2n52/view?usp=sharing)**
 
 * 💻 All of my projects are available on **[GitHub](https://github.com/ashwiniu17)**
 
