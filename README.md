@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ashwini U</h1>
 
 <h3 align="center">A passionate Computer Science Engineering student from India 🇮🇳</h3>
@@ -6,28 +7,28 @@
 <img src="https://komarev.com/ghpvc/?username=Ashwiniu17&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwiniu17" />
 </p>
 
-* 🌱 I’m currently learning **Data Structures, Algorithms & Software Development**
+- 🌱 I’m currently learning **Data Structures, Algorithms & Software Development**
 
-* 👩‍💻 I’m currently working on **projects and strengthening my problem-solving skills**
+- 👩‍💻 I’m currently working on **projects and strengthening my problem-solving skills**
 
-* 📄 Check out my resume here - **[My Resume](https://drive.google.com/file/d/1yj8o9-xeaH9be3bQdsDZ9hDDpk3jW99s/view?usp=sharing)**
+- 📄 Check out my resume here - **[My Resume](https://drive.google.com/file/d/1yj8o9-xeaH9be3bQdsDZ9hDDpk3jW99s/view?usp=sharing)**
 
-* 💻 All of my projects are available on **[GitHub](https://github.com/ashwiniu17)**
+- 💻 All of my projects are available on **[GitHub](https://github.com/ashwiniu17)**
 
-* 🎓 I’m currently pursuing **Computer Science Engineering**
+- 🎓 I’m currently pursuing **Computer Science Engineering**
 
-* 💬 Ask me about **Programming, Data Structures & Software Development**
+- 💬 Ask me about **Programming, Data Structures & Software Development**
 
-* 📫 Reach out to me at **[ashwini1752007@gmail.com](mailto:ashwini1752007@gmail.com)**
+- 📫 Reach out to me at **[ashwini1752007@gmail.com](mailto:ashwini1752007@gmail.com)**
 
-<h2>GitHub Stats:</h2>
+<h2>GitHub Stats (2026)</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwiniu17&show_icons=true&locale=en" alt="Ashwiniu17" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwiniu17&show_icons=true&locale=en" alt="Ashwini U's GitHub Stats" />
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com/?user=Ashwiniu17" alt="Ashwiniu17" />
+<img src="https://streak-stats.demolab.com/?user=ashwiniu17" alt="Ashwini U's GitHub Streak" />
 </p>
 
 <h2>Languages and Tools:</h2>
@@ -125,7 +126,6 @@
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
-
 
 </p>
 
