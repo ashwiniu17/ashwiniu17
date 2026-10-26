@@ -1,31 +1,136 @@
-# Hi, I'm Ashwini U 👋
-
-Computer Science Engineering student from India 🇮🇳, interested in software development, problem-solving, and building practical projects.
-
-- 🎓 Pursuing Computer Science Engineering
-- 🌱 Currently learning Data Structures, Algorithms, and Software Development
-- 💻 Working on personal projects and improving my programming skills
-- 📄 [Resume](https://drive.google.com/file/d/1yj8o9-xeaH9be3bQdsDZ9hDDpk3jW99s/view?usp=sharing)
-- 🌐 [Portfolio](https://ashwini-portfolio-web.netlify.app)
-- 📂 [GitHub Projects](https://github.com/ashwiniu17)
-- 📫 [Email](mailto:ashwini1752007@gmail.com)
-
-## Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,express,mysql,postgres,mongodb,git,github,vscode" alt="Languages and Tools" />
-</p>
-
-## GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwiniu17&show_icons=true&hide_border=true" alt="GitHub Statistics" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=ashwiniu17&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-⭐ Thanks for visiting my profile!
+ \
+\<h1 align="center">Hi 👋, I'm Ashwini U\</h1>\
+\
+\<h3 align="center">A passionate Computer Science Engineering student from India 🇮🇳\</h3>\
+\
+\<p align="left">\
+\<img src="https\://komarev.com/ghpvc/?username=Ashwiniu17&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwiniu17" />\
+\</p>\
+\
+\- 🌱 I’m currently learning \*\*Data Structures, Algorithms & Software Development\*\*\
+\
+\- 👩‍💻 I’m currently working on \*\*projects and strengthening my problem-solving skills\*\*\
+\
+\- 📄 Check out my resume here - \*\*[My Resume]\(https\://drive.google.com/file/d/1yj8o9-xeaH9be3bQdsDZ9hDDpk3jW99s/view?usp=sharing)\*\*\
+\
+\- 💻 All of my projects are available on \*\*[GitHub]\(https\://github.com/ashwiniu17)\*\*\
+\
+\- 🎓 I’m currently pursuing \*\*Computer Science Engineering\*\*\
+\
+\- 💬 Ask me about \*\*Programming, Data Structures & Software Development\*\*\
+\
+\- 📫 Reach out to me at \*\*[ashwini1752007@gmail.com]\(mailto:ashwini1752007@gmail.com)\*\*\
+\
+\<h2>GitHub Stats (2026)\</h2>\
+\
+\<p>\
+\<img src="https\://github-readme-stats.vercel.app/api?username=ashwiniu17&show_icons=true&locale=en" alt="Ashwini U's GitHub Stats" />\
+\</p>\
+\
+\<p>\
+\<img src="https\://streak-stats.demolab.com/?user=ashwiniu17" alt="Ashwini U's GitHub Streak" />\
+\</p>\
+\
+\<h2>Languages and Tools:\</h2>\
+\
+\<p align="left">\
+\
+\<a href="https\://www\.cprogramming.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://isocpp.org/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.java.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.python.org/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.w3.org/html/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.w3schools.com/css/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://react.dev/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://tailwindcss.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://nodejs.org/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://expressjs.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://spring.io/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://spring.io/projects/spring-boot" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.mysql.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.postgresql.org/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.mongodb.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://git-scm.com/" target="\_blank">\
+\<img src="https\://www\.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://github.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://code.visualstudio.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.postman.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.docker.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.netlify.com/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>\
+\</a>\
+\
+\<a href="https\://www\.linux.org/" target="\_blank">\
+\<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>\
+\</a>\
+\
+\</p>\
+\
+\<h2>Support:\</h2>\
+\
+\<p>\
+If you find my work useful, consider giving my repositories a ⭐\
+\</p>\
