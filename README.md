@@ -1,110 +1,67 @@
 
 <h1 align="center">Hi 👋, I'm Ashwini U</h1>
-
-<h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3>
+<h3 align="center">A Computer Science Engineering Student from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ashwiniu17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashwiniu17&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwiniu17" />
 </p>
 
-- 🌱 Currently learning **Data Structures, Algorithms, and Software Development**
-- 👩‍💻 Building projects and improving my **problem-solving and programming skills**
-- 🎓 Pursuing **Computer Science Engineering**
-- 💬 Interested in **Programming, Data Structures, and Software Development**
-- 📄 View my [Resume](https://drive.google.com/file/d/1yj8o9-xeaH9be3bQdsDZ9hDDpk3jW99s/view?usp=sharing)
-- 💻 Explore my [GitHub Projects](https://github.com/ashwiniu17)
-- 📫 Contact me at [ashwini1752007@gmail.com](mailto:ashwini1752007@gmail.com)
+- 🌱 I’m currently learning **Data Structures, Algorithms & Software Development**
+- 👩‍💻 I’m working on **projects and strengthening my problem-solving skills**
+- 🎓 I’m pursuing **Computer Science Engineering**
+- 📄 Check out my resume - [My Resume](https://drive.google.com/file/d/1yj8o9-xeaH9be3bQdsDZ9hDDpk3jW99s/view?usp=sharing)
+- 💻 All my projects are available on [GitHub](https://github.com/ashwiniu17)
+- 🌐 Visit my [Portfolio](https://ashwini-portfolio-web.netlify.app)
+- 💬 Ask me about **Programming, Data Structures & Software Development**
+- 📫 Reach out to me at **[ashwini1752007@gmail.com](mailto:ashwini1752007@gmail.com)**
 
----
-
-<h2>GitHub Statistics</h2>
+<h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwiniu17&show_icons=true&locale=en&hide_border=true" alt="Ashwini's GitHub Statistics" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwiniu17&show_icons=true&locale=en" alt="Ashwini U's GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=ashwiniu17&hide_border=true" alt="GitHub Contribution Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=ashwiniu17" alt="Ashwini U's GitHub Streak" />
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-<h2>Languages and Tools</h2>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-<p align="left">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="36" height="36"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="36" height="36"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="36" height="36"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="36" height="36"/>
-  </a>
-  <a href="https://spring.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="36" height="36"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="36" height="36"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="36" height="36"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="36" height="36"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="36" height="36"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="36" height="36"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
-  </a>
-  <a href="https://www.netlify.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="36" height="36"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
-  </a>
-</p>
-
----
-
-<h2>Support</h2>
+<h3 align="left">Support:</h3>
 
 <p>If you find my work useful, consider giving my repositories a ⭐.</p>
